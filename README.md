@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Vicdalis
+- I’m a software developer from Venezuela
