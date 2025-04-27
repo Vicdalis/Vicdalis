@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vicdalis
-- I’m a software developer from Venezuela
-- 
-<p align="center">
+  
+<p>
   🌐 Frontend Developer | 🧩 Problem Solver 
 </p>
 
@@ -15,7 +14,7 @@
 
 ### 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,dart,react,angular,next,flutter,firebase,mysql,laravel,tailwind,scss,html,css,git,github,gitlab&perline=5)
+- ![My Skills](https://skillicons.dev/icons?i=js,ts,dart,react,angular,next,flutter,firebase,mysql,laravel,tailwind,scss,html,css,git,github,gitlab&perline=5)
 
 
 ### 📫 Let's Connect
