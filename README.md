@@ -20,4 +20,4 @@
 
 ### 📫 Let's Connect
 
-- [💼 LinkedIn](https://linkedin.com/in/tu-user)
+- [💼 LinkedIn](https://linkedin.com/in/vicdalis-anazco)
