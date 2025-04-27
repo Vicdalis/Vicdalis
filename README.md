@@ -15,7 +15,7 @@
 
 ### 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,dart,react,angular,next,flutter,firebase,MySQL,laravel,tailwind,scss,html,css,git,github,gitlab&perline=4)
+![My Skills](https://skillicons.dev/icons?i=js,ts,dart,react,angular,next,flutter,firebase,mysql,laravel,tailwind,scss,html,css,git,github,gitlab&perline=5)
 
 
 ### 📫 Let's Connect
